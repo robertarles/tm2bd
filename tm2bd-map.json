@@ -1,0 +1,198 @@
+{
+  "version": "1.0",
+  "generatedAt": "2026-02-21T01:03:20.266Z",
+  "tasks": [
+    {
+      "tmId": 1,
+      "beadsId": "tm2db-w9p",
+      "subtasks": [
+        {
+          "tmId": 1,
+          "beadsId": "tm2db-w9p.1"
+        },
+        {
+          "tmId": 2,
+          "beadsId": "tm2db-w9p.2"
+        },
+        {
+          "tmId": 3,
+          "beadsId": "tm2db-w9p.3"
+        },
+        {
+          "tmId": 4,
+          "beadsId": "tm2db-w9p.4"
+        },
+        {
+          "tmId": 5,
+          "beadsId": "tm2db-w9p.5"
+        }
+      ]
+    },
+    {
+      "tmId": 2,
+      "beadsId": "tm2db-brr",
+      "subtasks": [
+        {
+          "tmId": 1,
+          "beadsId": "tm2db-brr.1"
+        },
+        {
+          "tmId": 2,
+          "beadsId": "tm2db-brr.2"
+        },
+        {
+          "tmId": 3,
+          "beadsId": "tm2db-brr.3"
+        }
+      ]
+    },
+    {
+      "tmId": 4,
+      "beadsId": "tm2db-aec",
+      "subtasks": [
+        {
+          "tmId": 1,
+          "beadsId": "tm2db-aec.1"
+        },
+        {
+          "tmId": 2,
+          "beadsId": "tm2db-aec.2"
+        },
+        {
+          "tmId": 3,
+          "beadsId": "tm2db-aec.3"
+        },
+        {
+          "tmId": 4,
+          "beadsId": "tm2db-aec.4"
+        }
+      ]
+    },
+    {
+      "tmId": 3,
+      "beadsId": "tm2db-bv0",
+      "subtasks": [
+        {
+          "tmId": 1,
+          "beadsId": "tm2db-bv0.1"
+        },
+        {
+          "tmId": 2,
+          "beadsId": "tm2db-bv0.2"
+        },
+        {
+          "tmId": 3,
+          "beadsId": "tm2db-bv0.3"
+        }
+      ]
+    },
+    {
+      "tmId": 5,
+      "beadsId": "tm2db-2xd",
+      "subtasks": [
+        {
+          "tmId": 1,
+          "beadsId": "tm2db-2xd.1"
+        },
+        {
+          "tmId": 2,
+          "beadsId": "tm2db-2xd.2"
+        }
+      ]
+    },
+    {
+      "tmId": 6,
+      "beadsId": "tm2db-s4n",
+      "subtasks": [
+        {
+          "tmId": 1,
+          "beadsId": "tm2db-s4n.1"
+        },
+        {
+          "tmId": 2,
+          "beadsId": "tm2db-s4n.2"
+        },
+        {
+          "tmId": 3,
+          "beadsId": "tm2db-s4n.3"
+        }
+      ]
+    },
+    {
+      "tmId": 9,
+      "beadsId": "tm2db-7qc",
+      "subtasks": [
+        {
+          "tmId": 1,
+          "beadsId": "tm2db-7qc.1"
+        },
+        {
+          "tmId": 2,
+          "beadsId": "tm2db-7qc.2"
+        }
+      ]
+    },
+    {
+      "tmId": 7,
+      "beadsId": "tm2db-zhm",
+      "subtasks": [
+        {
+          "tmId": 1,
+          "beadsId": "tm2db-zhm.1"
+        },
+        {
+          "tmId": 2,
+          "beadsId": "tm2db-zhm.2"
+        },
+        {
+          "tmId": 3,
+          "beadsId": "tm2db-zhm.3"
+        }
+      ]
+    },
+    {
+      "tmId": 8,
+      "beadsId": "tm2db-a66",
+      "subtasks": [
+        {
+          "tmId": 1,
+          "beadsId": "tm2db-a66.1"
+        },
+        {
+          "tmId": 2,
+          "beadsId": "tm2db-a66.2"
+        },
+        {
+          "tmId": 3,
+          "beadsId": "tm2db-a66.3"
+        }
+      ]
+    },
+    {
+      "tmId": 10,
+      "beadsId": "tm2db-9sz",
+      "subtasks": [
+        {
+          "tmId": 1,
+          "beadsId": "tm2db-9sz.1"
+        },
+        {
+          "tmId": 2,
+          "beadsId": "tm2db-9sz.2"
+        },
+        {
+          "tmId": 3,
+          "beadsId": "tm2db-9sz.3"
+        },
+        {
+          "tmId": 4,
+          "beadsId": "tm2db-9sz.4"
+        },
+        {
+          "tmId": 5,
+          "beadsId": "tm2db-9sz.5"
+        }
+      ]
+    }
+  ]
+}
